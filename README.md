@@ -12,5 +12,5 @@ $ vagrant node 1
 
 ##### To destroy
 ```
-$ vagrant up node1
+$ vagrant destroy -f
 ```
