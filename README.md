@@ -14,3 +14,13 @@ $ vagrant node 1
 ```
 $ vagrant destroy -f
 ```
+
+###### Cluster
+node1(master) 192.168.33.10
+node2 192.168.33.11
+node3 192.168.33.12
+node4 192.168.33.13
+
+Mesos: http://192.168.33.10:5050
+Marathon: http://192.168.33.10:8080
+Chronos: http://192.168.33.10:4400
