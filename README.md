@@ -1,7 +1,7 @@
 # ansible-mesos-vagrant-cluster
 Using ansible to create a mesos cluster on vagrant.
 
-Requires Ansible, Vagrant and Virtualbox
+Requires Ansible (1.9 or higher), Vagrant (1.8 or higher) and Virtualbox (1.5 or higher)
 
 ##### To run all 4 nodes 4
 ```
